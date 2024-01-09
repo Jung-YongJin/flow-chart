@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T00:04:26.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UipjljqmwDMDphrdbIqb" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T00:05:56.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nSES0N0jRL2qDwDtks59" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,14 +204,9 @@
         <mxCell id="GBO3RVmkL8M1SUxiBIiZ-72" value="&lt;b&gt;주요기능 프로세스&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="690" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBO3RVmkL8M1SUxiBIiZ-104" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GBO3RVmkL8M1SUxiBIiZ-97" target="GBO3RVmkL8M1SUxiBIiZ-103" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GBO3RVmkL8M1SUxiBIiZ-123" value="" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.093;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GBO3RVmkL8M1SUxiBIiZ-97" target="GBO3RVmkL8M1SUxiBIiZ-101" edge="1">
+        <mxCell id="GBO3RVmkL8M1SUxiBIiZ-104" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GBO3RVmkL8M1SUxiBIiZ-97" target="GBO3RVmkL8M1SUxiBIiZ-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="785" />
-            </Array>
+            <mxPoint x="310" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBO3RVmkL8M1SUxiBIiZ-97" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;친구 초대&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -239,9 +234,6 @@
           <mxGeometry x="100" y="775" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GBO3RVmkL8M1SUxiBIiZ-101" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;URL 복사&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="705" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GBO3RVmkL8M1SUxiBIiZ-103" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;카카오톡으로 공유&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="705" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GBO3RVmkL8M1SUxiBIiZ-105" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;룰렛&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
