@@ -1,6 +1,6 @@
 2조 팀프로젝트 읏맨 키우기 플로우차트
 
-![최종 drawio](https://github.com/Jung-YongJin/flow-chart/assets/51854696/e28d415c-2fbe-4761-99f1-212bb77c0152)
+![찐최종 drawio](https://github.com/Jung-YongJin/flow-chart/assets/51854696/362ee51c-19ee-4e45-8950-e0b1d0aca112)
 
 
 시행착오
