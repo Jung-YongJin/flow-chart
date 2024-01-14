@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T10:44:24.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vMkbPdzNFUmi03OgRVhV" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T10:44:48.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gTvjqcpqmRgVyQxe-OKh" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u02D6XVbvnOMUxrKCSFp-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="-1169" width="180" height="650" as="geometry" />
+          <mxGeometry x="910" y="-1169" width="170" height="650" as="geometry" />
         </mxCell>
         <mxCell id="u02D6XVbvnOMUxrKCSFp-86" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;시작&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="-1106.5" width="120" height="40" as="geometry" />
@@ -631,7 +631,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u02D6XVbvnOMUxrKCSFp-88" value="&lt;b&gt;KOOK게임 프로세스&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="-1169" width="160" height="40" as="geometry" />
+          <mxGeometry x="910" y="-1169" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u02D6XVbvnOMUxrKCSFp-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;KOOK게임하기 버튼 터치&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="-1036.5" width="120" height="40" as="geometry" />
