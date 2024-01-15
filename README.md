@@ -1,6 +1,6 @@
 2조 팀프로젝트 읏맨 키우기 플로우차트
+![최종 drawio](https://github.com/Jung-YongJin/flow-chart/assets/51854696/a2614033-38a0-4f22-985e-c279a4c9bd25)
 
-![최종 drawio](https://github.com/Jung-YongJin/flow-chart/assets/51854696/7d24703d-0ce7-4507-9be2-909e233e947e)
 
 시행착오
 - io 파일 가져오기 불가(확장자 문제?)
