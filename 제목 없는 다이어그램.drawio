@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T01:40:11.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="uWh2jDMQjMxMX22OQhUx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T01:40:32.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NHlh5DpdVFkrZb7FU2R9" version="22.1.18" type="github">
   <diagram name="페이지-1" id="PXcx_R00YAgb8d3gaZEV">
-    <mxGraphModel>
+    <mxGraphModel dx="768" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="daQ99t87KAzzY0OsEO8N-1" value="게이미피케이션(gamification)은 게임 작동 원리와 디자인 요소를 결합해 사용자에게 재미와 보상을 제공하는 마케팅기법으로 ‘도전-경쟁-성취-보상-관계’ 매커니즘으로 고객 참여를 늘리는 것을 목표로 한다.&#xa;&#xa;&#xa;https://www.welcomefg.co.kr/ko/media/news/120&#xa;2022년 6월 10일 웰뱅워킹 서비스 출시&#xa;한달 동안 20만보 걸을시 최대 3000원 현금 지급&#xa;https://www.welcomefg.co.kr/ko/media/news/126&#xa;22년 9월 6일 웰뱅 워킹적금 출시&#xa;https://www.welcomefg.co.kr/ko/media/news/169&#xa;23년 6월 15일 웰뱅워킹 서비스 출시 1년 만에 MAU 35만-&gt;55만, 월 평균 앱 접속횟수 7회-&gt;11회로 증가, 웰뱅워킹 서비스와 연계한 웰뱅워킹적금 5만좌 개설, 웰컴디지털뱅크 앱 22년 8월 기준 300만에서 23년 8월 기준 400만으로 웰뱅워킹 서비스 출시 이후 1년 만에 100만명 이상 누적 다운로드&#xa;https://www.welcomefg.co.kr/ko/media/news/175&#xa;웰뱅워킹 가입자 출시 1년 만에 20만명 이상&#xa;23년 7월 26일 웰뱅워킹 챌린지 업데이트 -&gt; 초대, 경쟁시스템 도입 -&gt; 게이미피케이션 요소 도입&#xa;https://www.welcomefg.co.kr/ko/media/news/204&#xa;23년 12월 15일 웰뱅워킹 서비스 가입자 25만명 -&gt; 게이미피케이션 요소 도입후 5개월만에 가입자 5만 명 증가&#xa;https://www.welcomefg.co.kr/ko/media/news/186&#xa;웰뱅워킹 서비스 외에도 알뜰폰요금제가입, 보험료비교, 안심중고거래, 신용관리, 대출비교, 대환대출, 간편결제 등 다양한 서비스를 제공하고 있지만 웰뱅워킹 서비스와 게이미피케이션 요소의 영향 적다고 볼 수 없음.&#xa;주 고객 50대 이상 90% -&gt; 20~40대 비중 70%, 정기예금 가입 고객 비중 90% -&gt; 보통예금, 정기적금 비중 50%로 변화 및 이체를 포함한 1인당 금융거래빈도 증가 -&gt; 저축은행 이미지 탈피하여 실생활 속에서 수시로 거래하는 주거래 금융회사로 변화" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="560" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
